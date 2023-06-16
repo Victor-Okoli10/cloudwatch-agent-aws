@@ -1,8 +1,4 @@
-# cloudwatch-agent-aws
-Use the script in this repository to access the userdata we used when creating EC2 instance as well as the custom script used for Nginx log configuration.
-
-At the end of this hands-on tutorial, you should be able to have another project that will count and add to your portfolio.
-
-Boost your confidence during interviews!!! 💪
-
+It can be scary to think you cant do the one thing that needs to get done but it's even scarier to realize that years past and you still in the sme place you've been.
+Get up an fail multiple times until one day you dont. 
+That's what success is, its just failing multiple times until you realize the one thing you kept doing wrong actually became right.
 
